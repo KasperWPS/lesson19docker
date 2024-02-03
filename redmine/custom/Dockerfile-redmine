@@ -1,0 +1,2 @@
+FROM redmine
+COPY public /usr/src/redmine/public
